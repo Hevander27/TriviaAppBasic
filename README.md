@@ -27,10 +27,13 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://imgur.com/a/F2tjXbo
+
+<img src='https://i.imgur.com/bYBWVC3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/F2tjXbo"  ><a href="//imgur.com/a/F2tjXbo">Project 3 Trivia App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
